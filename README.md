@@ -28,6 +28,6 @@ Dall-E: https://chat.openai.com/
 ```
 
 # 🌐 Connect with me :)
-LinkedIn- https://www.linkedin.com/in/jaskaran-singh-walia-657696271/
+LinkedIn- https://www.linkedin.com/in/jaskaran-singh-walia-657696271/ <br>
 Instagram- @karanwxlia
 
