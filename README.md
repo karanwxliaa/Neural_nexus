@@ -9,6 +9,10 @@ Q&A Session
 ```
 https://colab.research.google.com/github/MauryaRitesh/Facial-Expression-Detection-V2/blob/master/Expression_Detection.ipynb
 ```
+### Model File:
+```
+https://drive.google.com/file/d/1H1Xyy1YEg_TCuOur7a8EWCHaRt--ywlr/view?usp=sharing
+```
 ### Dataset: 
 ```
 1. https://www.kaggle.com/datasets/ahmedmoorsy/facial-expression
