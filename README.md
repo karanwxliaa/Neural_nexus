@@ -26,6 +26,10 @@ ImageProcessing: https://www.remove.bg/
 NLP CharacterAI: https://beta.character.ai/
 Dall-E: https://chat.openai.com/
 ```
+### Presentation 
+```
+https://prezi.com/view/Mzu4BFM1l5FO4EyeCCBB/
+```
 
 # 🌐 Connect with me :)
 LinkedIn- https://www.linkedin.com/in/jaskaran-singh-walia-657696271/ <br>
