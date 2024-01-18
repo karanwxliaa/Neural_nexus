@@ -25,6 +25,7 @@ TensorflowPlayground: https://playground.tensorflow.org/
 ImageProcessing: https://www.remove.bg/
 NLP CharacterAI: https://beta.character.ai/
 Dall-E: https://chat.openai.com/
+www.thispersondoesnotexist.com
 ```
 ### Presentation 
 ```
